@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Arkanaq
+- 👀 I’m interested in imporoving my coding skills and working on interesting projects.
+- 🌱 I’m currently improving my skills in MongoDb, Redis and .NET.
+- 📫 How to reach me => alexmatyovka@outlook.com
